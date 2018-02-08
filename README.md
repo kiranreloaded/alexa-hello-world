@@ -3,4 +3,4 @@ This is a .NET CORE API project which can interface with Alexa. Once deployed, t
 
 The api needs to be configured as a Alexa Skill using Amazon Developer Console
 
-![alt text](https://cdn-pro.dprcdn.net/files/acc_631711/5STCKk)
+![alt text](https://cdn-pro.dprcdn.net/files/acc_631711/1BTr3j)
