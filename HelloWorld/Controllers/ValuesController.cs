@@ -50,7 +50,7 @@ namespace HelloWorld.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Alexa API";
+            return "Alexa API changed";
         }
     }
 }
